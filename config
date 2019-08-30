@@ -218,7 +218,7 @@ set_from_resource $fg           i3wm.color15 #ff0000
 set_from_resource $fg-alt       i3wm.color2 #ff0000
 set_from_resource $hl           i3wm.color13 #ff0000
 
-set $fg-alt	#888888
+set $fg-alt	#6FC3DF
 set $fg		#ffffff
 set $hl		#6FC3DF
 set $bg		#000000
